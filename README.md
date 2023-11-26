@@ -1,3 +1,1 @@
-WordPress替换前端字体插件是一款针对Wordpress站点开发的一款前端字体替换插件。利用该插件，站长可以快速实现替换站点前端字体等，目前已收录优设标题黑、文道潮黑、仓耳渔阳体-W05、沐瑶软笔手写体、杨任东竹石体等字体。
-目的在于进一步提升网站的整体美观，让网站更具美感。
-<br/><img src="https://blog.itzhiyin.com/usr/uploads/2023/11/1968827283.png">
+<p><strong>插件概述</strong><br>WordPress替换前端字体插件是一款针对Wordpress站点开发的一款前端字体替换插件。利用该插件，站长可以快速实现替换站点前端字体等，目前已收录优设标题黑、文道潮黑、仓耳渔阳体-W05、沐瑶软笔手写体、杨任东竹石体等字体。<br>目的在于进一步提升网站的整体美观，让网站更具美感。<br><strong>插件截图</strong><br><img src="https://blog.itzhiyin.com/usr/uploads/2023/11/1968827283.png" alt="QQ截图20231110211522.png"><br><strong>使用教程</strong><br>下载插件文件<br>下载地址：<br>V1.1：<a href="https://zhiyinz.lanzoum.com/iGV3a1egqvla">https://zhiyinz.lanzoum.com/iGV3a1egqvla</a><br>打开wordpress安装插件将wordpress_Font.zip压缩包上传<br><img src="https://blog.itzhiyin.com/usr/uploads/2023/11/19690470.png" alt="3de5697773205058-1024x499.png"><br>选择要使用的字体，点击“保存设置”<br>注意，删除插件后字体将无法显示！</p>
